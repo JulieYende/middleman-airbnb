@@ -1,4 +1,6 @@
-- name: 'Sébastien Saunier'
+- name: 'Cat Woman'
   github_nickname: 'ssaunier'
-- name: 'Boris Paillard'
+  image_name: 'catwoman.jpg'
+- name: 'Batman'
   github_nickname: 'Papillard'
+  image_name: 'captain_america.jpg'
